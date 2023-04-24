@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/radhikeshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="radhikeshs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/radhikesh thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhikesh thakur" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/radhikeshthakur](https://www.linkedin.com/in/radhikesh-thakur-b0a6bb24a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhikesh thakur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/radhikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radhikesh" height="30" width="40" /></a>
 </p>
 
